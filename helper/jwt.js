@@ -3,7 +3,7 @@ const path = require('path')
 const buffer = require('crypto')
 var key = buffer.toString('hex');
 
-const secret = 'devel_Prem_Jwt324823';
+const secret = process.env.JWT_SECRET;
 const options = { expiresIn: '1h' };
 
 module.exports.signJwt = function (payload) {
