@@ -1,0 +1,78 @@
+{
+    "status": "ok",
+    "response": {
+        "match_id": 19887,
+        "title": "Barbados Tridents vs St Kitts and Nevis Patriots",
+        "subtitle": "30th Match",
+        "format": 6,
+        "format_str": "T20",
+        "status": 2,
+        "status_str": "Completed",
+        "status_note": "Patriots won by 10 wickets (with 78 balls remaining)",
+        "verified": "true",
+        "pre_squad": "true",
+        "game_state": 0,
+        "game_state_str": "Default",
+        "competition": {
+            "cid": 91396,
+            "title": "Caribbean Premier League",
+            "abbr": "caribbean-premier-league-2017",
+            "type": "tournament",
+            "category": "domestic",
+            "match_format": "t20",
+            "status": "live",
+            "season": "2017",
+            "datestart": "2017-08-04",
+            "dateend": "2017-09-09",
+            "total_matches": "34",
+            "total_rounds": "1",
+            "total_teams": "7",
+            "country": "wi"
+        },
+        "teama": {
+            "team_id": 18243,
+            "name": "Barbados Tridents",
+            "short_name": "BT",
+            "logo_url": "../assets/uploads/2016/03/barbados-tridents-120x80.jpg",
+            "scores_full": "128/9 (20 ov)",
+            "scores": "128/9",
+            "overs": "20"
+        },
+        "teamb": {
+            "team_id": 18256,
+            "name": "St Kitts and Nevis Patriots",
+            "short_name": "STKNP",
+            "logo_url": "../assets/uploads/2017/07/patriots_icon-120x120.png",
+            "scores_full": "129/0 (7 ov)",
+            "scores": "129/0",
+            "overs": "7"
+        },
+        "date_start": "2017-09-03 22:00:00",
+        "date_end": "2017-09-04 23:59:00",
+        "timestamp_start": 1504476000,
+        "timestamp_end": 1504569540,
+        "venue": {
+            "name": "Kensington Oval, Bridgetown",
+            "location": "Barbados",
+            "timezone": "0"
+        },
+        "umpires": "Johan Cloete (South Africa), Leslie Reifer (West Indies), Zahid Bassarath (West Indies, TV)",
+        "referee": "Dev Govindjee (South Africa)",
+        "equation": "",
+        "live": "",
+        "result": "",
+        "win_margin": "",
+        "commentary": 1,
+        "wagon": 1,
+        "latest_inning_number": 2,
+        "toss": {
+            "text": "St Kitts and Nevis Patriots won the toss & elected to field",
+            "winner": 18256,
+            "decision": 2
+        }
+    },
+    "etag": "fb3f0f904913325ac146aa1886e86bdc",
+    "modified": "2017-09-04 01:41:05",
+    "datetime": "2017-09-04 06:03:06",
+    "api_version": "2.0"
+}
